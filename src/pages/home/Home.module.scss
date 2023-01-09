@@ -1,0 +1,11 @@
+.home {
+    width: 100%;
+    padding: 15px;
+    gap: 15px;
+    height: calc(100vh - 80px);
+    background-image: url("../../assets//bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
